@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE CDXML SYSTEM "http://www.cambridgesoft.com/xml/cdxml.dtd" >
+<CDXML
+ CreationProgram="ChemDraw 20.1.0.112"
+ Name="OSM-S-106 Data Summary.cdxml"
+ BoundingBox="53.84 69.74 304.76 380.08"
+ WindowPosition="0 0"
+ WindowSize="0 0"
+ FractionalWidths="yes"
+ InterpretChemically="yes"
+ ShowAtomQuery="yes"
+ ShowAtomStereo="no"
+ ShowAtomEnhancedStereo="yes"
+ ShowAtomNumber="no"
+ ShowResidueID="no"
+ ShowBondQuery="yes"
+ ShowBondRxn="yes"
+ ShowBondStereo="no"
+ ShowTerminalCarbonLabels="no"
+ ShowNonTerminalCarbonLabels="no"
+ HideImplicitHydrogens="no"
+ LabelFont="58"
+ LabelSize="12"
+ LabelFace="96"
+ CaptionFont="58"
+ CaptionSize="12"
+ HashSpacing="2.61"
+ MarginWidth="2.01"
+ LineWidth="0.74"
+ BoldWidth="2.61"
+ BondLength="17.01"
+ BondSpacing="18"
+ ChainAngle="120"
+ LabelJustification="Auto"
+ CaptionJustification="Left"
+ AminoAcidTermini="HOH"
+ ShowSequenceTermini="yes"
+ ShowSequenceBonds="yes"
+ ShowSequenceUnlinkedBranches="no"
+ ResidueWrapCount="40"
+ ResidueBlockCount="10"
+ ResidueZigZag="yes"
+ NumberResidueBlocks="no"
+ PrintMargins="36 36 36 36"
+ MacPrintInfo="000300000048004800000000034A04A700000000034A04A7036507C1057B000200000048004800000000034A04A7000100000064000000010001010100000001270F000100010000000000000000000000000002001901900000000000400000000000000000000100000000000000000000000000000000"
+ ChemPropName=""
+ ChemPropFormula="Chemical Formula: "
+ ChemPropExactMass="Exact Mass: "
+ ChemPropMolWt="Molecular Weight: "
+ ChemPropMOverZ="m/z: "
+ ChemPropAnalysis="Elemental Analysis: "
+ ChemPropBoilingPt="Boiling Point: "
+ ChemPropMeltingPt="Melting Point: "
+ ChemPropCritTemp="Critical Temp: "
+ ChemPropCritPres="Critical Pres: "
+ ChemPropCritVol="Critical Vol: "
+ ChemPropGibbs="Gibbs Energy: "
+ ChemPropLogP="Log P: "
+ ChemPropMR="MR: "
+ ChemPropHenry="Henry&apos;s Law: "
+ ChemPropEForm="Heat of Form: "
+ ChemProptPSA="tPSA: "
+ ChemPropID=""
+ ChemPropFragmentLabel=""
+ color="0"
+ bgcolor="1"
+ RxnAutonumberStart="1"
+ RxnAutonumberConditions="no"
+ RxnAutonumberStyle="Roman"
+ RxnAutonumberFormat="(#)"
+><colortable>
+<color r="1" g="1" b="1"/>
+<color r="0" g="0" b="0"/>
+<color r="1" g="0" b="0"/>
+<color r="1" g="1" b="0"/>
+<color r="0" g="1" b="0"/>
+<color r="0" g="1" b="1"/>
+<color r="0" g="0" b="1"/>
+<color r="1" g="0" b="1"/>
+<color r="0.0627" g="0.5020" b="0.0039"/>
+</colortable><fonttable>
+<font id="58" charset="x-mac-roman" name="Arial"/>
+<font id="59" charset="x-mac-roman" name="Arial Italic"/>
+<font id="60" charset="x-mac-roman" name="Arial Bold"/>
+</fonttable><page
+ id="11693"
+ BoundingBox="0 0 1119 770"
+ HeaderPosition="36"
+ FooterPosition="36"
+ PrintTrimMarks="yes"
+ HeightPages="1"
+ WidthPages="1"
+><fragment
+ id="11642"
+ BoundingBox="108.13 69.74 250.46 139.61"
+ Z="45"
+><n
+ id="11643"
+ p="111.55 109.80"
+ Z="46"
+ Element="7"
+ NumHydrogens="0"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="107.22 114.09"
+ BoundingBox="108.13 105.50 114.90 114.09"
+ LabelJustification="Left"
+ LabelAlignment="Right"
+><s font="58" size="12" color="0" face="96">N</s></t></n><n
+ id="11644"
+ p="111.55 126.81"
+ Z="47"
+ AS="N"
+/><n
+ id="11645"
+ p="126.28 135.31"
+ Z="48"
+ Element="7"
+ NumHydrogens="0"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="121.95 139.61"
+ BoundingBox="122.86 131.02 129.63 139.61"
+ LabelJustification="Left"
+ LabelAlignment="Below"
+><s font="58" size="12" color="0" face="96">N</s></t></n><n
+ id="11646"
+ p="141.01 126.81"
+ Z="49"
+ AS="N"
+/><n
+ id="11647"
+ p="141.01 109.80"
+ Z="50"
+ AS="N"
+/><n
+ id="11648"
+ p="126.28 101.30"
+ Z="51"
+ AS="N"
+/><n
+ id="11649"
+ p="157.18 132.06"
+ Z="58"
+ AS="N"
+/><n
+ id="11650"
+ p="167.18 118.30"
+ Z="59"
+ AS="N"
+/><n
+ id="11651"
+ p="157.18 104.54"
+ Z="60"
+ Element="16"
+ NumHydrogens="0"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="153.18 108.91"
+ BoundingBox="153.72 100.18 160.56 109.06"
+ LabelJustification="Left"
+ LabelAlignment="Left"
+><s font="58" size="12" color="0" face="96">S</s></t></n><n
+ id="11652"
+ p="126.28 84.29"
+ Z="65"
+ Element="7"
+ NumHydrogens="2"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="121.95 88.58"
+ BoundingBox="122.86 79.99 143.81 91.13"
+ LabelJustification="Left"
+ LabelAlignment="Left"
+><s font="58" size="12" color="0" face="96">NH2</s></t></n><n
+ id="11667"
+ p="218.20 88.85"
+ Z="67"
+ Element="16"
+ NumHydrogens="0"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="214.20 93.21"
+ BoundingBox="214.74 84.48 221.58 93.36"
+ LabelJustification="Left"
+ LabelAlignment="Right"
+><s font="58" size="12" color="0" face="96">S</s></t></n><n
+ id="11668"
+ p="226.71 74.12"
+ Z="68"
+ Element="8"
+ NumHydrogens="0"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="222.04 78.49"
+ BoundingBox="222.62 69.74 230.84 78.63"
+ LabelJustification="Left"
+ LabelAlignment="Right"
+><s font="58" size="12" color="0" face="96">O</s></t></n><n
+ id="11669"
+ p="203.48 80.34"
+ Z="70"
+ Element="8"
+ NumHydrogens="0"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="198.81 84.71"
+ BoundingBox="199.39 75.97 207.60 84.86"
+ LabelJustification="Left"
+ LabelAlignment="Right"
+><s font="58" size="12" color="0" face="96">O</s></t></n><n
+ id="11670"
+ p="232.93 97.35"
+ Z="72"
+ Element="7"
+ NumHydrogens="2"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="228.60 101.64"
+ BoundingBox="229.52 93.05 250.46 104.19"
+ LabelJustification="Left"
+ LabelAlignment="Left"
+><s font="58" size="12" color="0" face="96">NH2</s></t></n><n
+ id="11671"
+ p="192.69 103.57"
+ Z="74"
+ AS="N"
+/><n
+ id="11672"
+ p="184.19 118.30"
+ Z="75"
+ AS="N"
+/><n
+ id="11673"
+ p="192.69 133.03"
+ Z="76"
+ AS="N"
+/><n
+ id="11674"
+ p="209.70 133.03"
+ Z="77"
+ AS="N"
+/><n
+ id="11675"
+ p="218.20 118.30"
+ Z="78"
+ AS="N"
+/><n
+ id="11676"
+ p="209.70 103.57"
+ Z="79"
+ AS="N"
+/><b
+ id="11654"
+ Z="52"
+ B="11643"
+ E="11644"
+ Order="2"
+ BS="N"
+ BondCircularOrdering="11659 0 0 11655"
+/><b
+ id="11655"
+ Z="53"
+ B="11644"
+ E="11645"
+ BS="N"
+/><b
+ id="11656"
+ Z="54"
+ B="11645"
+ E="11646"
+ Order="2"
+ BS="N"
+ BondCircularOrdering="11655 0 11660 11657"
+/><b
+ id="11657"
+ Z="55"
+ B="11646"
+ E="11647"
+ BS="N"
+/><b
+ id="11658"
+ Z="56"
+ B="11647"
+ E="11648"
+ Order="2"
+ BS="N"
+ BondCircularOrdering="11657 11663 11664 11659"
+/><b
+ id="11659"
+ Z="57"
+ B="11648"
+ E="11643"
+ BS="N"
+/><b
+ id="11660"
+ Z="61"
+ B="11646"
+ E="11649"
+ BS="N"
+/><b
+ id="11661"
+ Z="62"
+ B="11649"
+ E="11650"
+ Order="2"
+ BS="N"
+ BondCircularOrdering="11660 0 11687 11662"
+/><b
+ id="11662"
+ Z="63"
+ B="11650"
+ E="11651"
+ BS="N"
+/><b
+ id="11663"
+ Z="64"
+ B="11651"
+ E="11647"
+ BS="N"
+/><b
+ id="11664"
+ Z="66"
+ B="11648"
+ E="11652"
+ BS="N"
+/><b
+ id="11677"
+ Z="69"
+ B="11667"
+ E="11668"
+ Order="2"
+ BS="N"
+/><b
+ id="11678"
+ Z="71"
+ B="11667"
+ E="11669"
+ Order="2"
+ BS="N"
+/><b
+ id="11679"
+ Z="73"
+ B="11667"
+ E="11670"
+ BS="N"
+/><b
+ id="11680"
+ Z="80"
+ B="11671"
+ E="11672"
+ Order="2"
+ BS="N"
+ BondCircularOrdering="11685 0 11687 11681"
+/><b
+ id="11681"
+ Z="81"
+ B="11672"
+ E="11673"
+ BS="N"
+/><b
+ id="11682"
+ Z="82"
+ B="11673"
+ E="11674"
+ Order="2"
+ BS="N"
+ BondCircularOrdering="11681 0 0 11683"
+/><b
+ id="11683"
+ Z="83"
+ B="11674"
+ E="11675"
+ BS="N"
+/><b
+ id="11684"
+ Z="84"
+ B="11675"
+ E="11676"
+ Order="2"
+ BS="N"
+ BondCircularOrdering="11683 0 11686 11685"
+/><b
+ id="11685"
+ Z="85"
+ B="11676"
+ E="11671"
+ BS="N"
+/><b
+ id="11686"
+ Z="86"
+ B="11667"
+ E="11676"
+ BS="N"
+/><b
+ id="11687"
+ Z="87"
+ B="11650"
+ E="11672"
+ BS="N"
+/></fragment><t
+ id="11688"
+ p="179.01 159.16"
+ BoundingBox="53.84 150.41 304.76 380.08"
+ Z="88"
+ Warning="Chemical Interpretation is not possible for this label"
+ CaptionJustification="Center"
+ Justification="Center"
+ LineHeight="auto"
+ LineStarts="10 32 55 81 98 119 138 157 180 195 222 223 255 282 326 353 363"
+><s font="58" size="12" color="0">OSM-S-106</s><s font="60" size="12" color="0" face="1">
+</s><s font="60" size="12" color="10" face="1">0.036/ 0.088/ 0.15 uM</s><s font="58" size="12" color="0">
+sol pH 2: 50-100 ug/mL
+sol pH 6.5: </s><s font="59" size="12" color="0" face="2">ca</s><s font="58" size="12" color="0"> 12.5 ug/mL
+Human CLint: &lt; 7
+Human t1/2: &gt;250 min
+Mouse CLint: ca 60
+Mouse t1/2: 30 min
+Rat hep t1/2: &gt;375 min
+hERG pIC50: &lt;5
+IC</s><s font="58" size="12" color="0" face="32">50</s><s font="58" size="12" color="0"> (liver stage): 2.3 uM
+
+Mouse t1/2 3mg/kg p.o.: 0.86 hr
+PRR: slow, like atovaquone
+72 hr hypoxanthine assay IC50 NF54 154.3 nM
+Hill slope IC50 NF54: -4.9
+MMVSola…</s></t></page></CDXML>
